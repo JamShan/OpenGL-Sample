@@ -1,19 +1,33 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project1", "Project1\Project1.vcxproj", "{0BDC3EF9-2893-441E-9FC8-5927674537D7}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "gl-300", "gl-300", "{5DC5A2C9-D20C-43F2-B299-250D163BBA25}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "gl-320", "gl-320", "{DEE3F9EE-4CED-4B0C-9976-528398AB7FE7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "gl-330", "gl-330", "{F4014B9D-2871-4CE4-BC89-B7327EF73041}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "gl-400", "gl-400", "{84638C07-0D59-4136-A414-7470E533DC3A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "gl-410", "gl-410", "{678CA049-2C6C-4AC6-9230-E3DD43F170B5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "gl-420", "gl-420", "{6D4F3169-9BE1-49B4-A877-DF93B6B0E858}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "gl-430", "gl-430", "{E8EBF835-C63E-4DA6-8E0E-4DF8CE86B9B1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "gl-440", "gl-440", "{CEC54F61-BF41-4745-A504-872626849E45}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "gl-450", "gl-450", "{799BFDC3-EC6E-4F70-B6B5-88A4CE803815}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "gl-500", "gl-500", "{6AD75812-C3F8-4952-97F4-71DAAA439BD5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "es-200", "es-200", "{B7D6972F-5B4A-4C3F-A21D-F8820AD1195D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "es-300", "es-300", "{B800B8A7-43C3-44C6-BC93-5E083269C3B0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "micro", "micro", "{9FD10B3D-4A8D-485C-82DD-304A52148F19}"
 EndProject
 Global
-	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|Win32 = Debug|Win32
-		Release|Win32 = Release|Win32
-	EndGlobalSection
-	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{0BDC3EF9-2893-441E-9FC8-5927674537D7}.Debug|Win32.ActiveCfg = Debug|Win32
-		{0BDC3EF9-2893-441E-9FC8-5927674537D7}.Debug|Win32.Build.0 = Debug|Win32
-		{0BDC3EF9-2893-441E-9FC8-5927674537D7}.Release|Win32.ActiveCfg = Release|Win32
-		{0BDC3EF9-2893-441E-9FC8-5927674537D7}.Release|Win32.Build.0 = Release|Win32
-	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
