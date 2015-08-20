@@ -27,9 +27,4 @@
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
-  <ItemGroup>
-    <Image Include="kueken2-bgra8.dds">
-      <Filter>Resource Files</Filter>
-    </Image>
-  </ItemGroup>
 </Project>

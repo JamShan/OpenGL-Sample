@@ -1,11 +1,11 @@
 #version 130
 
-uniform sampler2D sampler;
+uniform sampler2D tex;
 
-in vec2 vertTexCoord;
+in vec2 tc;
 out vec4 fragColor;
 
 void main()
 {
-   fragColor = texture(sampler, vertTexCoord); //”¶”√Œ∆¿Ìdiffuse
+   fragColor = texture(tex, tc); 
 }
